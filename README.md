@@ -10,7 +10,7 @@ Determining the origin of a digital image or video, namely device source identif
 
 ## Examples of some scenes in the ForensiCam-215K dataset.
 <p align='center'>  
-  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/2.png' width='870'/>
+  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/scene.png' width='870'/>
 </p>
 <p align='center'> 
 
