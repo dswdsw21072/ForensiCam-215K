@@ -9,15 +9,18 @@ Determining the origin of a digital image or video, namely device source identif
 <p align='center'> 
 
 ## Examples of some scenes in the ForensiCam-215K dataset.
+
 <p align='center'>  
   <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/scene.png' width='870'/>
 </p>
 <p align='center'> 
 ## Folder structure of the ForensiCam-215K dataset
 <p align='center'>  
-  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/datastructure.png' width='870'/>
+  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/datastructure.png' width='650'/>
 </p>
 <p align='center'> 
+  
 ## Conclusions
+
 we present a new image and video dataset comprising 215,901 media content created by 130 modern smartphones. The images were acquired in 6 different shooting modes: Default, Night, HDR, HIGH-RES,AI and Filter, respectively. Three types of smartphone cameras equipped with main lens, wide-angle lens, and telephoto lens are used for each shooting mode, except for HIGH-RES. The videos were captured using default settings. All media contents were taken under tightly controlled conditions. The organization and file naming of this dataset were carefully designed to facilitate data retrieval and processing by researchers, meeting the requirements for various of forensic methods. This dataset could serve as a common benchmark for current and future multimedia forensics.
 
