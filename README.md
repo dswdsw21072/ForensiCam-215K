@@ -15,7 +15,7 @@ Determining the origin of a digital image or video, namely device source identif
 <p align='center'> 
 ## Folder structure of the ForensiCam-215K dataset
 <p align='center'>  
-  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/datasture.png' width='870'/>
+  <img src='https://github.com/dswdsw21072/ForensiCam-215K/blob/main/datastructure.png' width='870'/>
 </p>
 <p align='center'> 
 ## Conclusions
