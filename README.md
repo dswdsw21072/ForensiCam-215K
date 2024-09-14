@@ -23,7 +23,8 @@ Determining the origin of a digital image or video, namely device source identif
 <p align='center'> 
 
 ## Download 
-https://pan.baidu.com/s/1s9BQJTpg8FZWY6444kxUJA，Extraction code: dsw6
+https://pan.baidu.com/s/1s9BQJTpg8FZWY6444kxUJA
+Extraction code: dsw6
   
 ## Conclusions
 
